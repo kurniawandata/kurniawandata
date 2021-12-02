@@ -8,8 +8,8 @@ Belasan tahun terjun di dunia hacking dan keamanan komputer, mengisi seminar dan
 
 
 ## Kurniawan - Independent IT Security scientist 🌎 <a href="https://kurniawanblog.xcode.co.id"><img align="left" width="150" height="150" src="https://kurniawan.xcode.co.id/images/profile.jpg?raw=true"></a>
-- Blog pribadi <a href="https://kurniawanblog.xcode.co.id"> https://kurniawanblog.xcode.co.id</a> ✨
-- CTO & Senior Security Engineer di PT. Kode Keamanan Indonesia <a href="https://xcode.co.id"> https://xcode.co.id</a> 🔭
-- Kelas Hacker <a href="https://kelashacker.com">Kelashacker</a>  
-- Linkedin <a href="https://www.linkedin.com/in/kurniawan-aja/">LinkedIn</a>  👯 
+- Blog pribadi  - <a href="https://kurniawanblog.xcode.co.id"> https://kurniawanblog.xcode.co.id</a> ✨
+- CTO & Senior Security Engineer di PT. Kode Keamanan Indonesia -  <a href="https://xcode.co.id"> https://xcode.co.id</a> 🔭
+- Kelas Hacker - <a href="https://kelashacker.com">https://kelashacker.com</a>  
+- Linkedin  -  <a href="https://www.linkedin.com/in/kurniawan-aja/">LinkedIn</a>  👯 
 
