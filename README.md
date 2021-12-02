@@ -4,9 +4,11 @@
 Kurniawan adalah seorang Intelektual, Master ilmu komputer, Sarjana komputer, Filsuf, IT Security expert, IT Security Consultant, Senior Security Engineer, Progammer, IT Security reseacher, IT Security trainer.
 Komputer pribadi yang saya gunakan sehari-hari adalah komputer dengan menggunakan processor Intel Core i5 dengan distro Linux Mint 20.2.<br /><br />
 Semua server saya di internet yang saya handle, semua menggunakan Ubuntu Server. I love ubuntu server.<br /><br />
-Untuk saat ini, di dunia programming, saya menyukai bash programming, python programming & PHP Programming, walaupun ada juga bahasa pemrograman lain yang digunakan seperti bahasa assembly.<br /><br />
+Untuk saat ini, di dunia programming, saya menyukai bash programming, python programming & PHP Programming, terlepas dari ada juga bahasa pemrograman lain yang digunakan seperti bahasa assembly.<br /><br />
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=kurniawandata&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurniawandata&layout=compact" height=180 />
+</p>
 Saya lebih dari 20 tahun terjun di dunia hacking dan keamanan komputer, mengisi seminar dan workshop keamanan di banyak kampus, mengisi training untuk kampus-kampus, mengisi training untuk DISKOMINFO (Dinas Komunikasi dan Informatika) baik untuk yang offline maupun online, mengisi training untuk Kementerian Pertahanan Republik Indonesia, mengisi training untuk LEMSANEG (Lembaga Sandi Negara), mengisi training untuk KPK (Komisi Pemberantasan Korupsi Republik Indonesia) dan sebagainya seperti BPKD kabupaten dan berbagai perusahaan di Indonesia. Selain itu juga mengisi training dari peserta negara lain seperti dari timor leste, malaysia dan madagascar.
 
 ## Kurniawan - Independent IT Security scientist 🌎 <a href="https://kurniawanblog.xcode.co.id"><img align="left" width="150" height="150" src="https://kurniawan.xcode.co.id/images/profile.jpg?raw=true"></a>
