@@ -8,7 +8,7 @@ Belasan tahun terjun di dunia hacking dan keamanan komputer, mengisi seminar dan
 
 
 ## Kurniawan blog 🌎: <a href="https://kurniawanblog.xcode.co.id"><img align="left" width="150" height="150" src="https://kurniawan.xcode.co.id/images/profile.jpg?raw=true"></a> 💬
+- PT. Kode Keamanan Indonesia <a href="https://xcode.co.id"> https://xcode.co.id</a> ✨
 - Kelas Hacker <a href="https://kelashacker.com">Kelashacker</a>  🔭
-- PT. Kode Keamanan Indonesia <a href="https://xcode.co.id"> xcode.co.id</a> ✨
 - Linkedin <a href="https://www.linkedin.com/in/kurniawan-aja/">LinkedIn</a>  👯 
 
