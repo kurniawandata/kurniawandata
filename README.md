@@ -11,5 +11,5 @@ Lebih dari 20 tahun terjun di dunia hacking dan keamanan komputer, mengisi semin
 - Blog pribadi  - <a href="https://kurniawanblog.xcode.co.id"> https://kurniawanblog.xcode.co.id</a> ✨
 - CTO & Senior Security Engineer di PT. Kode Keamanan Indonesia -  <a href="https://xcode.co.id"> https://xcode.co.id</a> 🔭
 - Kelas Hacker - <a href="https://kelashacker.com">https://kelashacker.com</a> 🔭
-- Linkedin  -  <a href="https://www.linkedin.com/in/kurniawan-aja/">LinkedIn</a>  👯 
+- LinkedIn  -  <a href="https://www.linkedin.com/in/kurniawan-aja/">LinkedIn</a>  👯 
 
