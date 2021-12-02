@@ -1,4 +1,4 @@
-# Hi, I'm Kurniawan 👋🏾
+# Hi, I'm Kurniawan
 
 <img src="https://kelashacker.com/assets/img/training.png" alt="Kurniawan - CTO & Senior Security Engineer PT. Kode Keamanan Indonesia - xcode.co.id">
 Kurniawan adalah seorang intelektual, master ilmu komputer, sarjana komputer, filsuf, IT Security expert, progammer, IT Security reseacher, IT Security trainer.
