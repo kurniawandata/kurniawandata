@@ -1,6 +1,6 @@
 # Hi, I'm Kurniawan
 
-<img src="https://xcode.co.id/cover500.jpg" alt="Kurniawan - CTO & Senior Security Engineer PT. Kode Keamanan Indonesia - xcode.co.id">
+<img src="https://xcode.co.id/teknologiserverindonesia.png" alt="Kurniawan - CTO & Senior Security Engineer PT. Kode Keamanan Indonesia - xcode.co.id">
 Kurniawan adalah seorang Intelektual, Master ilmu komputer, Sarjana komputer, Filsuf, IT Security expert, IT Security Consultant, Senior Security Engineer, Progammer, IT Security reseacher, IT Security trainer.✨<br />Komputer pribadi yang saya gunakan sehari-hari adalah komputer dengan menggunakan processor Intel Core i5 dengan distro Linux Mint 20.2.✨<br /><br />
 Semua server di internet yang saya handle, semua menggunakan Ubuntu Server. I love ubuntu server.✨<br /><br />
 Untuk saat ini, di dunia programming, saya menyukai bash programming, python programming & PHP Programming ✨<br /><br />
