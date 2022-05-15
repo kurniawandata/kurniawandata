@@ -8,7 +8,7 @@ Saya lebih dari 20 tahun terjun di dunia hacking dan keamanan komputer, mengisi 
 
 Donasi untuk Kurniawan telah berkontribusi sebagai pengembang free software & open source dalam bentuk gopay<br />
 
- <img src="https://xcode.co.id/qrcode5.png" alt="gopay"> <br />
+ <img src="https://xcode.co.id/qrcodex2.png" alt="gopay"> <br />
  Gopay (Customer)
 
 ## Kurniawan - Independent IT Security scientist 🌎 <a href="https://kurniawanblog.xcode.co.id"><img align="left" width="150" height="150" src="https://avatars.githubusercontent.com/u/38490299?v=4?raw=true"></a>
